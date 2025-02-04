@@ -30,7 +30,7 @@ author:
   employer         : "Gunadarma University"
   uri              : arryanfr.github.io
   email            : "rfrmnsyh10@gmail.com" 
-  Zenodo           : "https://zenodo.org/me/uploads?q=&l=list&p=1&s=10&sort=newest"
+  Zenodo           : "rfrmnsyh10"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=T_5SbsEAAAAJ&hl=id&authuser=1"
@@ -69,7 +69,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@arryanfr"
+  youtube          : "@arryanfr"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
