@@ -15,7 +15,7 @@ name                     : &name "Riyan Firmansyah"
 description              : &description "BS. in Mechanical Engineering"
 url                      : https://arryanfr.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arryanfr/Arryanfr"
+repository               : "arryanfr/arryanfr.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "BS. in Mechanical Engineering"
   location         : "Depok, Indonesia"
   employer         : "Gunadarma University"
-  uri              : # URL
+  uri              : arryanfr.github.io
   email            : "rfrmnsyh10@gmail.com" 
 
   # Academic websites
