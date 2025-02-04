@@ -32,20 +32,16 @@ author:
   email            : "rfrmnsyh10@gmail.com" 
 
   # Academic websites
-  LinkedIn         : "https://www.linkedin.com/in/arrynfr/"
-  googlescholar    : "https://scholar.google.com/citations?user=T_5SbsEAAAAJ&hl=id&authuser=1"
+    googlescholar  : "https://scholar.google.com/citations?user=T_5SbsEAAAAJ&hl=id&authuser=1"
   Zenodo           : "https://zenodo.org/me/uploads?q=&l=list&p=1&s=10&sort=newest"
-  orcid            : "https://orcid.org/0009-0002-4961-1489) [![Zenodo](/assets/img/Zeno.png)](https://zenodo.org/me/uploads?q=&l=list&p=1&s=10&sort=newest"
-  Instagram        : "https://www.instagram.com/arryn.fr?igsh=MTdpZjVsMzR4eDR0ag=="
-  Youtube          : "https://www.youtube.com/@Arryanfr"
-  Github           : "https://github.com/Arryanfr"
-  scopus           : # URL
+  orcid            : "https://orcid.org/0009-0002-4961-1489"
+  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Arryanfr"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,9 +53,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "arryn.fr"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/arrynfr/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -72,7 +68,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/@Arryanfr"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
