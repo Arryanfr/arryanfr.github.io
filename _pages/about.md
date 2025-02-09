@@ -15,10 +15,6 @@ Riyan Firmansyah is a Master's student in Mechanical Engineering and a Research 
 
 
 
-
-Education
-======
-
 <h2>Education</h2>
 
 <div align="justify">
@@ -32,7 +28,6 @@ Education
 
 <br>
 
-<p>
   <b>2020–2024</b>: Bachelor's Student,  
   <a href="https://fti.gunadarma.ac.id/mesin/" target="_blank" style="color: #7886C7;"><b>Department of Mechanical Engineering</b></a>,  
   <a href="https://fti.gunadarma.ac.id/" target="_blank" style="color: #7886C7;"><b>Faculty of Industrial Technology</b></a>,  
@@ -45,7 +40,4 @@ Education
 
 
 
-
-Research Experience
-======
 
