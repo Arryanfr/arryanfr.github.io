@@ -18,7 +18,8 @@ Riyan Firmansyah is a Master's student in Mechanical Engineering and a Research 
 Education
 ======
 
-<div align="justify">
+
+</div>
   
 - **2024–present**: Master's Student, <a href="https://pasca.gunadarma.ac.id/magister/mesin/" target="_blank" style="color: #7886C7;"><b>Department of Mechanical Engineering</b></a>, <a href="https://fti.gunadarma.ac.id/" target="_blank" style="color: #7886C7;"><b>Faculty of Industrial Technology</b></a>, <a href="https://www.gunadarma.ac.id/" target="_blank" style="color: #7886C7;"><b>Gunadarma University</b></a>, Depok, Indonesia  
 
