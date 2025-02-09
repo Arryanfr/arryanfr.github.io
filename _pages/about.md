@@ -9,7 +9,7 @@ redirect_from:
 
 <div align="justify">
 
-Riyan Firmansyah is a Master's student in Mechanical Engineering and a Research Assistant at the <a href="https://www.instagram.com/cargunadarma/" target="_blank" style="text-decoration: none; color: blue;"><b>Center for Automotive Research (CAR) Laboratory</b></a>, <a href="https://pasca.gunadarma.ac.id/magister/mesin/" target="_blank" style="text-decoration: none; color: blue;"><b>Gunadarma University</b></a>, Depok, Indonesia. He received his Bachelor's degree in Mechanical Engineering from Gunadarma University in 2024. His research focuses on <b>fluid analysis, aerodynamics, renewable energy, and energy conversion</b>.
+Riyan Firmansyah is a Master's student in Mechanical Engineering and a Research Assistant at the <a href="https://www.instagram.com/cargunadarma/" target="_blank" style="text-decoration: none; color: 7886C7;"><b>Center for Automotive Research (CAR) Laboratory</b></a>, <a href="https://pasca.gunadarma.ac.id/magister/mesin/" target="_blank" style="text-decoration: none; color: 7886C7;"><b>Gunadarma University</b></a>, Depok, Indonesia. He received his Bachelor's degree in Mechanical Engineering from Gunadarma University in 2024. His research focuses on <b>fluid analysis, aerodynamics, renewable energy, and energy conversion</b>.
 
 </div>
 
