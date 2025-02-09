@@ -18,13 +18,9 @@ Riyan Firmansyah is a Master's student in Mechanical Engineering and a Research 
 Education
 ======
 
-- 🔹 **2024–present:** Master's Student & Research Assistant,  
-  <a href="https://www.instagram.com/cargunadarma/" target="_blank" style="color: #00AEEF;"><b>Center for Automotive Research (CAR) Laboratory</b></a>,  
-  <a href="https://pasca.gunadarma.ac.id/magister/mesin/" target="_blank" style="color: #00AEEF;"><b>Gunadarma University</b></a>, Depok, Indonesia  
+- **2024–present:** Master's Student , <a href="https://pasca.gunadarma.ac.id/magister/mesin/" target="_blank" style="color: #00AEEF;"><b>Gunadarma University</b></a>, Depok, Indonesia  
 
-- 🔹 **2020–2024:** Bachelor's Student,  
-  <a href="https://fti.gunadarma.ac.id/mesin/" target="_blank" style="color: #00AEEF;"><b>Mechanical Engineering</b></a>,  
-  Gunadarma University, Depok, Indonesia  
+- **2020–2024:** Bachelor's Student, <a href="https://fti.gunadarma.ac.id/mesin/" target="_blank" style="color: #00AEEF;"><b>Mechanical Engineering</b></a>, Gunadarma University, Depok, Indonesia  
 
 
 
