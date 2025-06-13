@@ -1,7 +1,7 @@
 ---
 title: 'CFD Propeller Boss Cap Fin (PBCF)'
 date: 2024-03-31
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/CFD Propeller/
 tags:
   - cool posts
   - category1
