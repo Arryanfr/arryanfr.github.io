@@ -1,12 +1,14 @@
 ---
-title: "CV Riyan Firmansyah"
+title: "Performance enhancement of an H-Type Darrieus vertical axis wind turbine equipped with NACA profile flap"
 collection: publications
-category: cv
-permalink: /publication/2024-05-27-cv-riyan-firmansyah
-excerpt: 'Curriculum Vitae of Riyan Firmansyah, Mechanical Engineering graduate from Universitas Gunadarma with focus on Energy Systems, CFD, Aerodynamics, and Energy Conversion Technology.'
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-27
-venue: 'Curriculum Vitae'
+venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arryanfr.github.io/files/CV_RiyanFirmansyah.pdf'
-citation: 'Riyan Firmansyah. (2024). &quot;Curriculum Vitae.&quot; <i>Personal Publication</i>.'
+paperurl: 'https://arryanfr.github.io/files/ProsidingBKSTM2023.pdf' 
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
